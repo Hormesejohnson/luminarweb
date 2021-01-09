@@ -1,0 +1,84 @@
+a{
+    color:#fff;
+font-size:14PX;
+
+font-weight: 100px;
+}
+
+
+  
+      #mail{
+      
+          color: white;
+          margin-left:900px;
+          
+          
+      }
+       
+      
+      #topp{
+      margin-left: 20px;
+      color: white;
+      
+
+      }
+      h1{
+          margin-left: 150px;
+          color:#5e068a; 
+      }
+        span{
+            color: #5e068a99;
+        }
+
+         .button-default {
+            padding: 20px 31px;
+            font-weight: 600px;
+           
+            border-radius: 50px;
+            border: 2px solid #5e068a;
+            margin-bottom: 200px;
+            background-color:#5e068a; 
+           
+            
+            
+         }
+
+        
+        
+        h5{
+            color:#5e068a;
+        }
+       #top{
+           color:#fff ;
+               width:1500px;
+               background-color: #5e068a;
+        } 
+        #topbox{
+            width: 1500px;
+            background-color: #5e068a;
+          
+        }
+        #num{
+            color: white;
+            font-size: small;
+           
+
+        }
+        #button{
+            margin-top: -300px;
+            margin-left: 70px;
+            
+        }
+       #box2{
+           margin-top: 350px;
+       }
+       #da{
+         
+         margin-left: 280px;
+       }
+       h3{
+           color: #5e068a;
+       }
+       h4{
+           font-size:1rem;
+       }
